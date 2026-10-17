@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Info.canvas",
+                "file": "Knowledge.canvas",
                 "viewState": {
-                  "x": 170.25390625,
-                  "y": 1540.9430908203121,
-                  "zoom": 0
+                  "x": 912.7549451868554,
+                  "y": 338.76520494816657,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Info"
+              "title": "Knowledge"
             }
           }
         ]
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f550e108966df814",
@@ -188,6 +189,7 @@
   },
   "active": "9820dd0b5aa86638",
   "lastOpenFiles": [
-    "Info.canvas"
+    "Info.canvas",
+    "Knowledge.canvas"
   ]
 }
